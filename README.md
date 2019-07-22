@@ -7,6 +7,9 @@
   推荐尚硅谷免费视频教程：
   - https://www.bilibili.com/video/av34875242
   - https://www.bilibili.com/video/av40809206
+  
+  然后这里我有一个示例项目，基本涵盖常用的知识点
+  - https://github.com/fish-java/MyBatisImpl
 
 - 全面学习:
 
