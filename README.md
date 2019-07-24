@@ -12,3 +12,12 @@
   - http://www.mybatis.org/mybatis-3/zh/index.html
   
   可以用作查缺补漏
+  
+### MyBatisPlus
+- 官方文档
+
+  https://mp.baomidou.com/guide/
+  
+- 慕课网免费视频
+
+  https://www.imooc.com/learn/1130
